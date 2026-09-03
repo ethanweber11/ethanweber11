@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Weber 👋
+# Hi, I'm Ethan Weber 
 
 I’m a recent **Skidmore College graduate** with a **B.A. in Mathematics** and a minor in **Economics**, pursuing opportunities in **Data Analytics, Business Intelligence, and Reporting**.
 
